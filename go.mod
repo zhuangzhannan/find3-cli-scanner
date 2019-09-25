@@ -7,5 +7,5 @@ require (
 	github.com/schollz/find3 v3.1.0+incompatible
 	github.com/schollz/gatt v0.0.0-20180724021353-a05b37823302
 	github.com/schollz/wifiscan v1.0.0
-	github.com/urfave/cli v1.20.0
+	github.com/zhuangzhannan/cli v1.20.0
 )
